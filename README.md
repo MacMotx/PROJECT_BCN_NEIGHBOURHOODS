@@ -27,7 +27,7 @@ neighbourhoods.
 2. Resident Characteristics: Where we include percentages of population by certain conditions
 like higher education, foreigners and unemployed.
 3. Economic Info: Here we include terms relative to wealth (i.e. disposable income) and it’s
-inequality distribution (i.e. Gini index
+inequality distribution (i.e. Gini index)
 
 
 📙 Each Jupyter Notebook contains one phase of the study, namely; 
