@@ -21,8 +21,7 @@ historically related to displacement and neighbourhood change phenomena.
 💾 The studied DataSet can be conceptually divided in three categories:
 
 1. Housing Factors: Here we include terms relative to the rent market as well as the real state
-market. From average prices to amount of registered purchases and a rent growth rate, cal-
-culated subtracting expired contracts from newly signed contracts. Also the area of each
+market. From average prices to amount of registered purchases and a rent growth rate, calculated subtracting expired contracts from newly signed contracts. Also the area of each
 neighbourhood classified per registered activity, that provides a clearer sense of the studied
 neighbourhoods.
 2. Resident Characteristics: Where we include percentages of population by certain conditions
