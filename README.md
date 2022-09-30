@@ -1,6 +1,6 @@
 # PROJECT_BCN_NEIGHBOURHOODS
 
-### Final project for the Data Science course
+### Final project for the Data Science course at the IT Academy Barcelona
 
 
 The purpose of this study is to show if systemic differences amongst Barcelona’s neighbourhoods
