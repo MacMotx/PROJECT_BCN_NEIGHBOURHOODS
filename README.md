@@ -18,7 +18,7 @@ We used public data from the City-Council Statistics dpt. to create the used dat
 intention of representing yearly series of all the Barcelona city’s neighbourhoods including variables
 historically related to displacement and neighbourhood change phenomena.
 
-💾 The provided DataSets can be conceptually divided in three categories:
+💾 The studied DataSet can be conceptually divided in three categories:
 
 1. Housing Factors: Here we include terms relative to the rent market as well as the real state
 market. From average prices to amount of registered purchases and a rent growth rate, cal-
