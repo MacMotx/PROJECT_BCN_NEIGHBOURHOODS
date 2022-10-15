@@ -1,4 +1,5 @@
 # PROJECT_BCN_NEIGHBOURHOODS
+![My Remote Image](https://s27363.pcdn.co/wp-content/uploads/2022/03/View-of-Barcelona.jpg.optimal.jpg)
 
 ### Final project for the Data Science course at the IT Academy Barcelona
 
