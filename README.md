@@ -30,7 +30,7 @@ The studied DataSet can be conceptually divided in three categories:
 
 💼 Final document in paper format is attached as a pdf named "Barcelona_Clustering-2"
 
-BEFORE YOU START🖐
+🛑 BEFORE YOU START🖐
 
 If you're interested in the EDA Notebook...due either to the number & nature of the features in the dataset and the context delivered in the comentaries or to the animated graphics (like 3D clusterings and maps) I included, It happens to be considered "not very small". So the Github🐿 will appear telling you the file is too heavy to be displayed on this site.
 
